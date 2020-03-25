@@ -1,0 +1,22 @@
+.nav-item {
+    position: relative;
+}
+.card {
+    background-color:rgb(192, 190, 190);
+    margin: auto;
+    width:25rem;
+    color: honeydew;
+}
+.checkbox {
+    position: relative;
+    right: 45%;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.navbar {
+    background-color: rgb(95, 95, 95);
+}
+.hr {
+    margin-top: 100px;
+}
+
